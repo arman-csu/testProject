@@ -1,0 +1,6 @@
+c:\users\abir\documents\visual studio 2013\Projects\testGitProject\testGitProject\bin\testGitProject.dll.config
+c:\users\abir\documents\visual studio 2013\Projects\testGitProject\testGitProject\bin\testGitProject.dll
+c:\users\abir\documents\visual studio 2013\Projects\testGitProject\testGitProject\bin\testGitProject.pdb
+c:\users\abir\documents\visual studio 2013\Projects\testGitProject\testGitProject\obj\Debug\testGitProject.csprojResolveAssemblyReference.cache
+c:\users\abir\documents\visual studio 2013\Projects\testGitProject\testGitProject\obj\Debug\testGitProject.dll
+c:\users\abir\documents\visual studio 2013\Projects\testGitProject\testGitProject\obj\Debug\testGitProject.pdb
